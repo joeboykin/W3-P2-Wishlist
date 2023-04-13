@@ -1,10 +1,10 @@
-# wishlistProject2
+# W3 P2 Wishlist
 A wishlist designed in Kotlin
-# Android Project 2 - *WishlistP2*
+# Android Project 2 - W3 P2 Wishlist
 
-Submitted by: **Joseph Boykin**
+Submitted by: Joseph Boykin
 
-**WishlistP2** is a wishlist app that helps the user keep track of what they want to buy.
+'W3 P2 Wishlist' is a wishlist app that helps the user keep track of what they want to buy.
 
 Time spent: 1.5 hours spent in total
 
@@ -30,15 +30,7 @@ The app needs work and it's a steap learning curve for me.
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...
-I used the built in screen recorder on mac by holding ' Shift + Command and Number 5 '
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+Walkthrough submitted separately.
 
 ## Notes
 
