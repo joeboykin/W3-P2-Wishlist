@@ -1,34 +1,35 @@
 # W3 P2 Wishlist
 A wishlist designed in Kotlin
+
 # Android Project 2 - W3 P2 Wishlist
 
 Submitted by: Joseph Boykin
 
 'W3 P2 Wishlist' is a wishlist app that helps the user keep track of what they want to buy.
 
-Time spent: 1.5 hours spent in total
+Time spent: 3.5 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-- [ ] **User can add an item to their wishlist**
+- [x] **User can add an item to their wishlist**
 - [x] **User can see their list of items based on previously inputted items**
 
 The following **optional** features are implemented:
 
 - [x] Wishlist app is 🎨 **customized** 🎨
-- [ ] User can delete an item by long pressing on the item
-- [ ] User can open an item's URL by clicking on the item
+- [x] User can delete an item by long pressing on the item
+- [x] User can open an item's URL by clicking on the item
 
 The following **additional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
-The app needs work and it's a steap learning curve for me.
+- [ ] N/A
 
 ## Video Walkthrough
 Here's a walkthrough of implemented user stories:
-<img src= https://github.com/joeboykin/W3-U2-B_Mail/blob/96187f4a86eb25e86d479749aecd8720e6ac7c98/B_Mail%20U2.gif title='B_Mail Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= https://github.com/joeboykin/W3-P2-Wishlist/blob/8fc985418e57d07fdd8d533a62feb9af7523ea2d/WishlistP2.0.gif title='Wish List Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 [Kap](https://getkap.co/) for macOS
